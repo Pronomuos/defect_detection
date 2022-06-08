@@ -1,0 +1,6 @@
+
+model_training:
+  learning_rate: 0.000005
+  loss_margin : 1.0
+  loss_p : 2
+
